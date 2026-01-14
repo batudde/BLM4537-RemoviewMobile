@@ -1,6 +1,6 @@
 # Remoview Mobile 📱🎬 (BLM4537 Project)
 Video Linki:
-PDF Linki:
+PDF Linki: https://drive.google.com/file/d/1mvIRwRBfonvk_inkdJtE12HDUwEf0bNz/view?usp=sharing
 
 Remoview Mobile; Remoview backend (ASP.NET Core Web API) ile haberleşen, kullanıcıların mobil cihaz üzerinden film keşfetmesini, film detaylarını görmesini, puan vermesini, yorum yapmasını ve favorilerini yönetmesini sağlayan mobil uygulamadır.
 
